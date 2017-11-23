@@ -17,13 +17,17 @@ This is part of a broader project to bring Mycroft into the automotive world.
 
 "Subaru."
 
-"What is your code?"
+"The make you have specified is Subaru, is this correct?"
 
-"P0011"
+"Yes."
+
+"What is your OBD-2 code?"
+
+"P0011."
 
 "P0011 means Camshaft Position 'A' Timing Over Advance or Performance Bank. Do you want to know more?"
 
-"Yes/"
+"Yes."
 
 "Here are some possible causes: Low or Dirty Engine Oil, Timing belt misaligned, Faulty AVCS solenoid. Do you want to know more?"
 

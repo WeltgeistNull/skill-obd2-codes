@@ -1,7 +1,0 @@
-{
-    "utterance": "diagnose vehicle",
-    "intent_type": "DiagnoseVehicle",
-    "intent": {
-      "DiagnoseVehicleKeyword": "thank you"
-    }
-  }
