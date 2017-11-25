@@ -43,3 +43,6 @@ This is part of a broader project to bring Mycroft into the automotive world.
 ## OBD-II PID sources
 - https://www.autocodes.com/
 - https://www.obd-codes.com/
+
+## Software
+- FlexGet?

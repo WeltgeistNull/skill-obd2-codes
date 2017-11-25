@@ -1,8 +1,7 @@
 *.pyc
 *.swp
 *~
-mimic
-pocketsphinx-python
 *.egg-info/
 build
 dist
+.vscode/
